@@ -71,8 +71,8 @@ ol {
   margin: 0;
 }
 .bg img {
-  width: 90vw;
-  height: 90vh;
+  width: 100vw;
+  height: 95vh;
   position: center;
   filter: brightness(0.8);
 
