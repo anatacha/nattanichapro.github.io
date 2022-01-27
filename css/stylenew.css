@@ -31,9 +31,30 @@ header h2 {
     align-items: center;
 }
 .Thelight-title h2{
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size:5em;
     cursor: default;
+}
+.Thelight-title img{
+    height:5vh;
+    width:3vw;
+    cursor: default;
+}
+.Thelight h1{
+    color: rgb(255, 175, 175);
+    font-size:3em;
+    cursor: default;
+    align-items: center;
+}
+.light{
+    position:fixed;
+    top:0;
+    left:0;
+    width:250%;
+    height:200%;
+    pointer-events: none;
+    background: radial-gradient(circle at var(--x) var(--y),transparent 10%,rgba(0,0,0,0.95)20%);
+
 }
 /*
 .light{
