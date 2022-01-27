@@ -50,7 +50,7 @@ header h2 {
     position:fixed;
     top:0;
     left:0;
-    width:250%;
+    width:200%;
     height:200%;
     pointer-events: none;
     background: radial-gradient(circle at var(--x) var(--y),transparent 10%,rgba(0,0,0,0.95)20%);
@@ -102,7 +102,7 @@ header{
 .about2-pages div> p{
     width:80%;
     font-size: 18px;
-    line-height: px;
+    line-height: 3px;
 
 }
 .about2-pages div:nth-child(1){
